@@ -18,7 +18,7 @@ Thank you for your interest in contributing to World Monitor! This project thriv
 - [Feature Requests](#feature-requests)
 - [Code of Conduct](#code-of-conduct)
 
-## Architecture Overview
+##Architecture Overview
 
 World Monitor is a real-time OSINT dashboard built with **Vanilla TypeScript** (no UI framework), **MapLibre GL + deck.gl** for map rendering, and a custom Proto-first RPC framework called **Sebuf** for all API communication.
 
